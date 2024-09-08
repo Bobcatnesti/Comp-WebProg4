@@ -1,0 +1,14 @@
+C:\Users\Gigi Respicio Pacho\source\repos\02 Laboratory Activity 2\02 Laboratory Activity 2\bin\Debug\net8.0\02 Laboratory Activity 2.exe
+C:\Users\Gigi Respicio Pacho\source\repos\02 Laboratory Activity 2\02 Laboratory Activity 2\bin\Debug\net8.0\02 Laboratory Activity 2.deps.json
+C:\Users\Gigi Respicio Pacho\source\repos\02 Laboratory Activity 2\02 Laboratory Activity 2\bin\Debug\net8.0\02 Laboratory Activity 2.runtimeconfig.json
+C:\Users\Gigi Respicio Pacho\source\repos\02 Laboratory Activity 2\02 Laboratory Activity 2\bin\Debug\net8.0\02 Laboratory Activity 2.dll
+C:\Users\Gigi Respicio Pacho\source\repos\02 Laboratory Activity 2\02 Laboratory Activity 2\bin\Debug\net8.0\02 Laboratory Activity 2.pdb
+C:\Users\Gigi Respicio Pacho\source\repos\02 Laboratory Activity 2\02 Laboratory Activity 2\obj\Debug\net8.0\02 Laboratory Activity 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigi Respicio Pacho\source\repos\02 Laboratory Activity 2\02 Laboratory Activity 2\obj\Debug\net8.0\02 Laboratory Activity 2.AssemblyInfoInputs.cache
+C:\Users\Gigi Respicio Pacho\source\repos\02 Laboratory Activity 2\02 Laboratory Activity 2\obj\Debug\net8.0\02 Laboratory Activity 2.AssemblyInfo.cs
+C:\Users\Gigi Respicio Pacho\source\repos\02 Laboratory Activity 2\02 Laboratory Activity 2\obj\Debug\net8.0\02 Laboratory Activity 2.csproj.CoreCompileInputs.cache
+C:\Users\Gigi Respicio Pacho\source\repos\02 Laboratory Activity 2\02 Laboratory Activity 2\obj\Debug\net8.0\02 Laboratory Activity 2.dll
+C:\Users\Gigi Respicio Pacho\source\repos\02 Laboratory Activity 2\02 Laboratory Activity 2\obj\Debug\net8.0\refint\02 Laboratory Activity 2.dll
+C:\Users\Gigi Respicio Pacho\source\repos\02 Laboratory Activity 2\02 Laboratory Activity 2\obj\Debug\net8.0\02 Laboratory Activity 2.pdb
+C:\Users\Gigi Respicio Pacho\source\repos\02 Laboratory Activity 2\02 Laboratory Activity 2\obj\Debug\net8.0\02 Laboratory Activity 2.genruntimeconfig.cache
+C:\Users\Gigi Respicio Pacho\source\repos\02 Laboratory Activity 2\02 Laboratory Activity 2\obj\Debug\net8.0\ref\02 Laboratory Activity 2.dll

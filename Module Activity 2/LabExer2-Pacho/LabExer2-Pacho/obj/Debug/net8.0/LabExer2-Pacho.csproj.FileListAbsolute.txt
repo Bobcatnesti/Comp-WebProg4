@@ -1,0 +1,14 @@
+C:\Users\Gigi Respicio Pacho\source\repos\LabExer2-Pacho\LabExer2-Pacho\bin\Debug\net8.0\LabExer2-Pacho.exe
+C:\Users\Gigi Respicio Pacho\source\repos\LabExer2-Pacho\LabExer2-Pacho\bin\Debug\net8.0\LabExer2-Pacho.deps.json
+C:\Users\Gigi Respicio Pacho\source\repos\LabExer2-Pacho\LabExer2-Pacho\bin\Debug\net8.0\LabExer2-Pacho.runtimeconfig.json
+C:\Users\Gigi Respicio Pacho\source\repos\LabExer2-Pacho\LabExer2-Pacho\bin\Debug\net8.0\LabExer2-Pacho.dll
+C:\Users\Gigi Respicio Pacho\source\repos\LabExer2-Pacho\LabExer2-Pacho\bin\Debug\net8.0\LabExer2-Pacho.pdb
+C:\Users\Gigi Respicio Pacho\source\repos\LabExer2-Pacho\LabExer2-Pacho\obj\Debug\net8.0\LabExer2-Pacho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigi Respicio Pacho\source\repos\LabExer2-Pacho\LabExer2-Pacho\obj\Debug\net8.0\LabExer2-Pacho.AssemblyInfoInputs.cache
+C:\Users\Gigi Respicio Pacho\source\repos\LabExer2-Pacho\LabExer2-Pacho\obj\Debug\net8.0\LabExer2-Pacho.AssemblyInfo.cs
+C:\Users\Gigi Respicio Pacho\source\repos\LabExer2-Pacho\LabExer2-Pacho\obj\Debug\net8.0\LabExer2-Pacho.csproj.CoreCompileInputs.cache
+C:\Users\Gigi Respicio Pacho\source\repos\LabExer2-Pacho\LabExer2-Pacho\obj\Debug\net8.0\LabExer2-Pacho.dll
+C:\Users\Gigi Respicio Pacho\source\repos\LabExer2-Pacho\LabExer2-Pacho\obj\Debug\net8.0\refint\LabExer2-Pacho.dll
+C:\Users\Gigi Respicio Pacho\source\repos\LabExer2-Pacho\LabExer2-Pacho\obj\Debug\net8.0\LabExer2-Pacho.pdb
+C:\Users\Gigi Respicio Pacho\source\repos\LabExer2-Pacho\LabExer2-Pacho\obj\Debug\net8.0\LabExer2-Pacho.genruntimeconfig.cache
+C:\Users\Gigi Respicio Pacho\source\repos\LabExer2-Pacho\LabExer2-Pacho\obj\Debug\net8.0\ref\LabExer2-Pacho.dll
